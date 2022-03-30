@@ -1,0 +1,3 @@
+README
+The accuracy is around 91%. There are no known bugs; however, I noticed increasing batch-size or decreasing learning rate didn't 
+always increase the accuracy. 
